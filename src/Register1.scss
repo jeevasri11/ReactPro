@@ -1,0 +1,14 @@
+$primarybg:rgb(167, 126, 73);
+$primaryfontsize:15px;
+$primarywidth:200px;
+
+.main{
+    background-color: $primarybg;
+    text-align: center;
+    height: 50px;
+    font-size: $primaryfontsize;
+    width: $primarywidth;
+    padding: 10px;
+    margin: 20px;
+   
+}
